@@ -18,7 +18,6 @@
   },
   "keywords": [
     "mysql",
-    "and",
     "nodejs"
   ],
   "author": "Harish",
@@ -26,5 +25,8 @@
   "bugs": {
     "url": "https://github.com/harishsainik/PlayingWithMySqlNodejs/issues"
   },
-  "homepage": "https://github.com/harishsainik/PlayingWithMySqlNodejs#readme"
+  "homepage": "https://github.com/harishsainik/PlayingWithMySqlNodejs#readme",
+  "dependencies": {
+    "mocha": "^6.0.2"
+  }
 }
