@@ -1,6 +1,6 @@
 {
   "name": "playingwithsql",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "playing with mysql and nodejs",
   "main": "server.js",
   "directories": {
