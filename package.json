@@ -26,7 +26,9 @@
     "url": "https://github.com/harishsainik/PlayingWithMySqlNodejs/issues"
   },
   "homepage": "https://github.com/harishsainik/PlayingWithMySqlNodejs#readme",
-  "dependencies": {
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^4.2.0",
     "mocha": "^6.0.2"
   }
 }
