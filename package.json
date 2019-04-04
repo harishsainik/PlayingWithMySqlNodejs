@@ -1,0 +1,30 @@
+{
+  "name": "playingwithsql",
+  "version": "1.0.0",
+  "description": "playing with mysql and nodejs",
+  "main": "server.js",
+  "directories": {
+    "example": "examples",
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "make test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harishsainik/PlayingWithMySqlNodejs.git"
+  },
+  "keywords": [
+    "mysql",
+    "and",
+    "nodejs"
+  ],
+  "author": "Harish",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harishsainik/PlayingWithMySqlNodejs/issues"
+  },
+  "homepage": "https://github.com/harishsainik/PlayingWithMySqlNodejs#readme"
+}
